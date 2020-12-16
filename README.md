@@ -1,3 +1,3 @@
-# class-1
+# class1
 
 this my training repo
